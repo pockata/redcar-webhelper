@@ -14,9 +14,9 @@ Purpose:
 
    First you need to download and install the rbwekitgtk bindings from [here](https://github.com/magec/rbwebkitgtk/)
 
-   When you're done, download the plugin
-   `cd ~/.redcar/plugins`
-   `git clone git://github.com/pockata/redcar-webhelper.git webhelper`
+   When you're done, download the plugin  
+   `cd ~/.redcar/plugins  
+   git clone git://github.com/pockata/redcar-webhelper.git webhelper`
 
 ###Run
 
